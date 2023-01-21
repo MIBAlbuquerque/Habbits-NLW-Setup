@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto onlie] (https://MIBAlbuquerque.github.io/Habbits-NLW-Setup)
 
 ## 🔖 Layout
 

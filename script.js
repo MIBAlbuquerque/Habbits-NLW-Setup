@@ -19,9 +19,6 @@ let itsNewDay = nlwSetup.dayExists(today)
         nlwSetup.addDay(today)
         alert("Dia incluído com sucesso ✅")
     }
-
-
-
 }
 
 function saveChange() {
